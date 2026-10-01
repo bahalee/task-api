@@ -120,14 +120,14 @@ Les données sont donc réinitialisées lorsque l'application est arrêtée.
 
 Le projet contient actuellement **11 tests automatisés** couvrant notamment :
 
-* création valide ;
-* validation du titre ;
-* transitions autorisées ;
-* transition interdite ;
-* tâche inexistante ;
-* récupération des tâches ;
-* filtrage par statut ;
-* statut inconnu.
+* création valide 
+* validation du titre 
+* transitions autorisées 
+* transition interdite 
+* tâche inexistante 
+* récupération des tâches 
+* filtrage par statut 
+* statut inconnu
 
 Dernière exécution :
 
@@ -430,13 +430,13 @@ BUILD SUCCESS
 
 Le temps a principalement été consacré à :
 
-* mise en place du projet Spring Boot ;
-* implémentation de l'API ;
-* implémentation des règles métier ;
-* gestion des erreurs ;
-* écriture des tests ;
-* vérification manuelle des endpoints ;
-* documentation.
+* mise en place du projet Spring Boot 
+* implémentation de l'API 
+* implémentation des règles métier 
+* gestion des erreurs 
+* écriture des tests 
+* vérification manuelle des endpoints 
+* documentation
 
 ---
 
@@ -472,10 +472,10 @@ La documentation officielle et un assistant IA ont été utilisés comme **suppo
 
 L'IA a notamment été utilisée pour :
 
-* clarifier certains points de configuration Spring Boot ;
-* vérifier des choix d'API et de tests ;
-* aider à identifier et corriger des problèmes de configuration liés à Spring Boot 4 ;
-* relire certaines parties du code ;
+* clarifier certains points de configuration Spring Boot 
+* vérifier des choix d'API et de tests 
+* aider à identifier et corriger des problèmes de configuration liés à Spring Boot 4 
+* relire certaines parties du code 
 * structurer la documentation.
 
 Le code a été exécuté, testé et vérifié localement, et je suis en mesure d'expliquer les choix d'implémentation et les règles métier.
